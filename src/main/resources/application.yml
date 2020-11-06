@@ -24,7 +24,7 @@ spring:
     host: smtp.gmail.com
     port: 587
     username: kjub275@gmail.com
-    password: jraKjub275
+    password: 
     properties.mail.smtp.auth:  true
     properties.mail.smtp.starttls.enable: true
 
@@ -52,7 +52,7 @@ spring:
     host: smtp.gmail.com
     port: 587
     username: kjub275@gmail.com
-    password: jraKjub275
+    password: 
     properties.mail.smtp.auth:  true
     properties.mail.smtp.starttls.enable: true
 

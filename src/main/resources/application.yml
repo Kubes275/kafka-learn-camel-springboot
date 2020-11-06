@@ -119,4 +119,12 @@ errorRoute: kafka:errorTopic?brokers=localhost:9092
 healthRoute: timer:health?period=10s
 
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> 2d0055b... first commit
+=======
+---
+>>>>>>> c671c5e... Update application.yml
